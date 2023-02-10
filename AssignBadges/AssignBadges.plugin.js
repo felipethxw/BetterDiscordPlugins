@@ -46,7 +46,7 @@ const config = {
 		"zlibrary": true,
 		"copy": true,
 		"production": false,
-		"scssHash": false,
+		"scssHash": false,a
 		"alias": {
 			"components": "components/index.js"
 		},
